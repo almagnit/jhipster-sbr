@@ -1,0 +1,29 @@
+{
+  "sbrConverterApp": {
+    "vTS": {
+      "home": {
+        "title": "VTS",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new VTS",
+        "createOrEditLabel": "Create or edit a VTS",
+        "notFound": "No VTS found"
+      },
+      "created": "A new VTS is created with identifier {{ param }}",
+      "updated": "A VTS is updated with identifier {{ param }}",
+      "deleted": "A VTS is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete VTS {{ id }}?"
+      },
+      "detail": {
+        "title": "VTS"
+      },
+      "id": "ID",
+      "verkehrstage": "Verkehrstage",
+      "beschreibung": "Beschreibung",
+      "versionsnummer": "Versionsnummer",
+      "mandant": "Mandant",
+      "feiertage": "Feiertage",
+      "gueltigkeit": "Gueltigkeit"
+    }
+  }
+}

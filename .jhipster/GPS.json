@@ -1,0 +1,32 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072231",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "gps",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "gpsCode",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "inneresFenster",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "auBeresFenster",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "GPS",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

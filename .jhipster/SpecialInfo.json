@@ -1,0 +1,48 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072234",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "special_info",
+  "fields": [
+    {
+      "fieldName": "code",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "item",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "attribute",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "shortTerminalDesc",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "longTerminalDesc",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "displayText",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ds003",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "language",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "SpecialInfo",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

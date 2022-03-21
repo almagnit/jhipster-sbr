@@ -1,0 +1,29 @@
+{
+  "sbrConverterApp": {
+    "announcement": {
+      "home": {
+        "title": "Announcements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Announcement",
+        "createOrEditLabel": "Create or edit a Announcement",
+        "notFound": "No Announcements found"
+      },
+      "created": "A new Announcement is created with identifier {{ param }}",
+      "updated": "A Announcement is updated with identifier {{ param }}",
+      "deleted": "A Announcement is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Announcement {{ id }}?"
+      },
+      "detail": {
+        "title": "Announcement"
+      },
+      "id": "ID",
+      "code": "Code",
+      "ansage": "Ansage",
+      "item": "Item",
+      "announcementfile": "Announcementfile",
+      "klartext": "Klartext",
+      "language": "Language"
+    }
+  }
+}

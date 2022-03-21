@@ -1,0 +1,32 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072235",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "lsa_turnout",
+  "fields": [
+    {
+      "fieldName": "station1",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "station2",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "lsaCode",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "turnout",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "LSATurnout",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

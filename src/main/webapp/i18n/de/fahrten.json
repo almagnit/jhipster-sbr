@@ -1,0 +1,30 @@
+{
+  "sbrConverterApp": {
+    "fahrten": {
+      "home": {
+        "title": "Fahrtens",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Fahrten erstellen",
+        "createOrEditLabel": "Fahrten erstellen oder bearbeiten",
+        "notFound": "Keine Fahrtens gefunden"
+      },
+      "created": "Fahrten erstellt mit ID {{ param }}",
+      "updated": "Fahrten aktualisiert mit ID {{ param }}",
+      "deleted": "Fahrten gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Fahrten {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Fahrten"
+      },
+      "id": "ID",
+      "titel": "Titel",
+      "zugnummer": "Zugnummer",
+      "znrBeschreibung": "Znr Beschreibung",
+      "variante": "Variante",
+      "tagesart": "Tagesart",
+      "umlauf": "Umlauf",
+      "umlaufindex": "Umlaufindex"
+    }
+  }
+}

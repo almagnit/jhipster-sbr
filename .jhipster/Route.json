@@ -1,0 +1,148 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072223",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "route",
+  "fields": [
+    {
+      "fieldName": "ort",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "entfernung",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "haltegrund",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "gleis",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ausstieg",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "gps",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ansage",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "endAnsage",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "startAnsage",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "viaAnsage",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "stopAnsage",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "stopAnsageMode",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "zugziel",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "entwerter1",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "entwerter2",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "zoneninfo",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "automat10",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "attribute",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "sprache1",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "sprache2",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "sprache3",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "kurs",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "zieltexte",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "liniennummer",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "gattung",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "lineMarker",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ds010",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "linienansage",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "spurkranz",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "skDauer",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "skBoogie",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "prmTur",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "tursperrung",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Route",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

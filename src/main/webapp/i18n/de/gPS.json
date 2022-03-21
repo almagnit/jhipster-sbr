@@ -1,0 +1,27 @@
+{
+  "sbrConverterApp": {
+    "gPS": {
+      "home": {
+        "title": "GPS",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "GPS erstellen",
+        "createOrEditLabel": "GPS erstellen oder bearbeiten",
+        "notFound": "Keine GPS gefunden"
+      },
+      "created": "GPS erstellt mit ID {{ param }}",
+      "updated": "GPS aktualisiert mit ID {{ param }}",
+      "deleted": "GPS gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll GPS {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "GPS"
+      },
+      "id": "ID",
+      "name": "Name",
+      "gpsCode": "Gps Code",
+      "inneresFenster": "Inneres Fenster",
+      "auBeresFenster": "Au Beres Fenster"
+    }
+  }
+}

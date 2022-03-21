@@ -1,0 +1,27 @@
+{
+  "sbrConverterApp": {
+    "lSATurnout": {
+      "home": {
+        "title": "LSA Turnouts",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "LSA Turnout erstellen",
+        "createOrEditLabel": "LSA Turnout erstellen oder bearbeiten",
+        "notFound": "Keine LSA Turnouts gefunden"
+      },
+      "created": "LSA Turnout erstellt mit ID {{ param }}",
+      "updated": "LSA Turnout aktualisiert mit ID {{ param }}",
+      "deleted": "LSA Turnout gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll LSA Turnout {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "LSA Turnout"
+      },
+      "id": "ID",
+      "station1": "Station 1",
+      "station2": "Station 2",
+      "lsaCode": "Lsa Code",
+      "turnout": "Turnout"
+    }
+  }
+}

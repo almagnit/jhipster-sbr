@@ -1,0 +1,56 @@
+{
+  "sbrConverterApp": {
+    "route": {
+      "home": {
+        "title": "Routes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Route",
+        "createOrEditLabel": "Create or edit a Route",
+        "notFound": "No Routes found"
+      },
+      "created": "A new Route is created with identifier {{ param }}",
+      "updated": "A Route is updated with identifier {{ param }}",
+      "deleted": "A Route is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Route {{ id }}?"
+      },
+      "detail": {
+        "title": "Route"
+      },
+      "id": "ID",
+      "ort": "Ort",
+      "entfernung": "Entfernung",
+      "haltegrund": "Haltegrund",
+      "gleis": "Gleis",
+      "ausstieg": "Ausstieg",
+      "gps": "Gps",
+      "ansage": "Ansage",
+      "endAnsage": "End Ansage",
+      "startAnsage": "Start Ansage",
+      "viaAnsage": "Via Ansage",
+      "stopAnsage": "Stop Ansage",
+      "stopAnsageMode": "Stop Ansage Mode",
+      "zugziel": "Zugziel",
+      "entwerter1": "Entwerter 1",
+      "entwerter2": "Entwerter 2",
+      "zoneninfo": "Zoneninfo",
+      "automat10": "Automat 10",
+      "attribute": "Attribute",
+      "sprache1": "Sprache 1",
+      "sprache2": "Sprache 2",
+      "sprache3": "Sprache 3",
+      "kurs": "Kurs",
+      "zieltexte": "Zieltexte",
+      "liniennummer": "Liniennummer",
+      "gattung": "Gattung",
+      "lineMarker": "Line Marker",
+      "ds010": "Ds 010",
+      "linienansage": "Linienansage",
+      "spurkranz": "Spurkranz",
+      "skDauer": "Sk Dauer",
+      "skBoogie": "Sk Boogie",
+      "prmTur": "Prm Tur",
+      "tursperrung": "Tursperrung"
+    }
+  }
+}

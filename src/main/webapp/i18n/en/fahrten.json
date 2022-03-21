@@ -1,0 +1,30 @@
+{
+  "sbrConverterApp": {
+    "fahrten": {
+      "home": {
+        "title": "Fahrtens",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Fahrten",
+        "createOrEditLabel": "Create or edit a Fahrten",
+        "notFound": "No Fahrtens found"
+      },
+      "created": "A new Fahrten is created with identifier {{ param }}",
+      "updated": "A Fahrten is updated with identifier {{ param }}",
+      "deleted": "A Fahrten is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Fahrten {{ id }}?"
+      },
+      "detail": {
+        "title": "Fahrten"
+      },
+      "id": "ID",
+      "titel": "Titel",
+      "zugnummer": "Zugnummer",
+      "znrBeschreibung": "Znr Beschreibung",
+      "variante": "Variante",
+      "tagesart": "Tagesart",
+      "umlauf": "Umlauf",
+      "umlaufindex": "Umlaufindex"
+    }
+  }
+}

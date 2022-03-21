@@ -1,0 +1,36 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072227",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "function_announcement",
+  "fields": [
+    {
+      "fieldName": "code",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "audioFile",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "beschreibung",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "anmerkung",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "language",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "FunctionAnnouncement",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

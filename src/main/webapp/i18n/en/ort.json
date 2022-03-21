@@ -1,0 +1,35 @@
+{
+  "sbrConverterApp": {
+    "ort": {
+      "home": {
+        "title": "Orts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Ort",
+        "createOrEditLabel": "Create or edit a Ort",
+        "notFound": "No Orts found"
+      },
+      "created": "A new Ort is created with identifier {{ param }}",
+      "updated": "A Ort is updated with identifier {{ param }}",
+      "deleted": "A Ort is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ort {{ id }}?"
+      },
+      "detail": {
+        "title": "Ort"
+      },
+      "id": "ID",
+      "ibnr": "Ibnr",
+      "ds100": "Ds 100",
+      "front": "Front",
+      "seite": "Seite",
+      "innen": "Innen",
+      "tft": "Tft",
+      "terminal": "Terminal",
+      "ds001c": "Ds 001 C",
+      "video": "Video",
+      "ds009": "Ds 009",
+      "ds003": "Ds 003",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "sbrConverterApp": {
+    "functionAnnouncement": {
+      "home": {
+        "title": "Function Announcements",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Function Announcement erstellen",
+        "createOrEditLabel": "Function Announcement erstellen oder bearbeiten",
+        "notFound": "Keine Function Announcements gefunden"
+      },
+      "created": "Function Announcement erstellt mit ID {{ param }}",
+      "updated": "Function Announcement aktualisiert mit ID {{ param }}",
+      "deleted": "Function Announcement gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Function Announcement {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Function Announcement"
+      },
+      "id": "ID",
+      "code": "Code",
+      "audioFile": "Audio File",
+      "beschreibung": "Beschreibung",
+      "anmerkung": "Anmerkung",
+      "language": "Language"
+    }
+  }
+}
