@@ -1,0 +1,136 @@
+entity Route {
+  ort String,
+  entfernung String,
+  haltegrund String,
+  gleis String,
+  ausstieg String,
+  gps String,
+  ansage String,
+  endAnsage String,
+  startAnsage String,
+  viaAnsage String,
+  stopAnsage String,
+  stopAnsageMode String,
+  zugziel String,
+  entwerter1 String,
+  entwerter2 String,
+  zoneninfo String,
+  automat10 String,
+  attribute String,
+  sprache1 String,
+  sprache2 String,
+  sprache3 String,
+  kurs String,
+  zieltexte String,
+  liniennummer String,
+  gattung String,
+  lineMarker String,
+  ds010 String,
+  linienansage String,
+  spurkranz String,
+  skDauer String,
+  skBoogie String,
+  prmTur String,
+  tursperrung String
+}
+entity Fahrten {
+  titel String,
+  zugnummer String,
+  znrBeschreibung String,
+  variante String,
+  tagesart String,
+  umlauf String,
+  umlaufindex String
+}
+entity Announcement {
+  code String,
+  ansage String,
+  item String,
+  announcementfile String,
+  klartext String,
+  language String
+}
+entity SpecialAnnouncement {
+  code String,
+  item String,
+  ausgabeOrt String,
+  kurz String,
+  language String,
+  ansagedatei String,
+  klartext String
+}
+entity FunctionAnnouncement {
+  code String,
+  audioFile String,
+  beschreibung String,
+  anmerkung String,
+  language String
+}
+entity FunctionText {
+  code String,
+  text String,
+  language String
+}
+entity Ort {
+  ibnr String,
+  ds100 String,
+  front String,
+  seite String,
+  innen String,
+  tft String,
+  terminal String,
+  ds001c String,
+  video String,
+  ds009 String,
+  ds003 String,
+  language String
+}
+entity Ziel {
+  code String,
+  front String,
+  seite1 String,
+  seite2 String,
+  innen String,
+  tft String,
+  terminal String,
+  language String
+}
+entity GPS {
+  name String,
+  gpsCode String,
+  inneresFenster String,
+  auBeresFenster String
+}
+entity VTS {
+  verkehrstage String,
+  beschreibung String,
+  versionsnummer String,
+  mandant String,
+  feiertage String,
+  gueltigkeit String
+}
+entity Sonderziele {
+  zugnummer String,
+  front String,
+  seite1 String,
+  seite2 String,
+  innen String,
+  tft String,
+  terminal String
+}
+entity SpecialInfo {
+  code String,
+  item String,
+  attribute String,
+  shortTerminalDesc String,
+  longTerminalDesc String,
+  displayText String,
+  ds003 String,
+  language String
+}
+entity LSATurnout {
+  station1 String,
+  station2 String,
+  lsaCode String,
+  turnout String
+}
