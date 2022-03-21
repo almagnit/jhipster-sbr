@@ -1,0 +1,40 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072232",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "vts",
+  "fields": [
+    {
+      "fieldName": "verkehrstage",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "beschreibung",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "versionsnummer",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "mandant",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "feiertage",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "gueltigkeit",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "VTS",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

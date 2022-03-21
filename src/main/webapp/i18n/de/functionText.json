@@ -1,0 +1,26 @@
+{
+  "sbrConverterApp": {
+    "functionText": {
+      "home": {
+        "title": "Function Texts",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Function Text erstellen",
+        "createOrEditLabel": "Function Text erstellen oder bearbeiten",
+        "notFound": "Keine Function Texts gefunden"
+      },
+      "created": "Function Text erstellt mit ID {{ param }}",
+      "updated": "Function Text aktualisiert mit ID {{ param }}",
+      "deleted": "Function Text gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Function Text {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Function Text"
+      },
+      "id": "ID",
+      "code": "Code",
+      "text": "Text",
+      "language": "Language"
+    }
+  }
+}

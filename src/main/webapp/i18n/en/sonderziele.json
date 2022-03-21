@@ -1,0 +1,30 @@
+{
+  "sbrConverterApp": {
+    "sonderziele": {
+      "home": {
+        "title": "Sonderzieles",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Sonderziele",
+        "createOrEditLabel": "Create or edit a Sonderziele",
+        "notFound": "No Sonderzieles found"
+      },
+      "created": "A new Sonderziele is created with identifier {{ param }}",
+      "updated": "A Sonderziele is updated with identifier {{ param }}",
+      "deleted": "A Sonderziele is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Sonderziele {{ id }}?"
+      },
+      "detail": {
+        "title": "Sonderziele"
+      },
+      "id": "ID",
+      "zugnummer": "Zugnummer",
+      "front": "Front",
+      "seite1": "Seite 1",
+      "seite2": "Seite 2",
+      "innen": "Innen",
+      "tft": "Tft",
+      "terminal": "Terminal"
+    }
+  }
+}

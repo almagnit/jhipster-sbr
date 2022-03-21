@@ -1,0 +1,31 @@
+{
+  "sbrConverterApp": {
+    "ziel": {
+      "home": {
+        "title": "Ziels",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Ziel erstellen",
+        "createOrEditLabel": "Ziel erstellen oder bearbeiten",
+        "notFound": "Keine Ziels gefunden"
+      },
+      "created": "Ziel erstellt mit ID {{ param }}",
+      "updated": "Ziel aktualisiert mit ID {{ param }}",
+      "deleted": "Ziel gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Ziel {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Ziel"
+      },
+      "id": "ID",
+      "code": "Code",
+      "front": "Front",
+      "seite1": "Seite 1",
+      "seite2": "Seite 2",
+      "innen": "Innen",
+      "tft": "Tft",
+      "terminal": "Terminal",
+      "language": "Language"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072228",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "function_text",
+  "fields": [
+    {
+      "fieldName": "code",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "text",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "language",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "FunctionText",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

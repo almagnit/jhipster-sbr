@@ -1,0 +1,31 @@
+{
+  "sbrConverterApp": {
+    "specialInfo": {
+      "home": {
+        "title": "Special Infos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Special Info",
+        "createOrEditLabel": "Create or edit a Special Info",
+        "notFound": "No Special Infos found"
+      },
+      "created": "A new Special Info is created with identifier {{ param }}",
+      "updated": "A Special Info is updated with identifier {{ param }}",
+      "deleted": "A Special Info is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Special Info {{ id }}?"
+      },
+      "detail": {
+        "title": "Special Info"
+      },
+      "id": "ID",
+      "code": "Code",
+      "item": "Item",
+      "attribute": "Attribute",
+      "shortTerminalDesc": "Short Terminal Desc",
+      "longTerminalDesc": "Long Terminal Desc",
+      "displayText": "Display Text",
+      "ds003": "Ds 003",
+      "language": "Language"
+    }
+  }
+}

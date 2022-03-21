@@ -7,6 +7,19 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entities",
+        "route": "Route",
+        "fahrten": "Fahrten",
+        "announcement": "Announcement",
+        "specialAnnouncement": "Special Announcement",
+        "functionAnnouncement": "Function Announcement",
+        "functionText": "Function Text",
+        "ort": "Ort",
+        "ziel": "Ziel",
+        "gps": "GPS",
+        "vts": "VTS",
+        "sonderziele": "Sonderziele",
+        "specialInfo": "Special Info",
+        "lsaTurnout": "LSA Turnout",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

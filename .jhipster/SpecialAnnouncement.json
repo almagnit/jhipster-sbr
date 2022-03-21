@@ -1,0 +1,44 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072226",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "special_announcement",
+  "fields": [
+    {
+      "fieldName": "code",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "item",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ausgabeOrt",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "kurz",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "language",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ansagedatei",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "klartext",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "SpecialAnnouncement",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

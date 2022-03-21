@@ -48,6 +48,19 @@ public class CacheConfiguration {
             createCache(cm, sbr.converter.domain.User.class.getName());
             createCache(cm, sbr.converter.domain.Authority.class.getName());
             createCache(cm, sbr.converter.domain.User.class.getName() + ".authorities");
+            createCache(cm, sbr.converter.domain.Route.class.getName());
+            createCache(cm, sbr.converter.domain.Fahrten.class.getName());
+            createCache(cm, sbr.converter.domain.Announcement.class.getName());
+            createCache(cm, sbr.converter.domain.SpecialAnnouncement.class.getName());
+            createCache(cm, sbr.converter.domain.FunctionAnnouncement.class.getName());
+            createCache(cm, sbr.converter.domain.FunctionText.class.getName());
+            createCache(cm, sbr.converter.domain.Ort.class.getName());
+            createCache(cm, sbr.converter.domain.Ziel.class.getName());
+            createCache(cm, sbr.converter.domain.GPS.class.getName());
+            createCache(cm, sbr.converter.domain.VTS.class.getName());
+            createCache(cm, sbr.converter.domain.Sonderziele.class.getName());
+            createCache(cm, sbr.converter.domain.SpecialInfo.class.getName());
+            createCache(cm, sbr.converter.domain.LSATurnout.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }

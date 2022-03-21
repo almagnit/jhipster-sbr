@@ -1,0 +1,30 @@
+{
+  "sbrConverterApp": {
+    "specialAnnouncement": {
+      "home": {
+        "title": "Special Announcements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Special Announcement",
+        "createOrEditLabel": "Create or edit a Special Announcement",
+        "notFound": "No Special Announcements found"
+      },
+      "created": "A new Special Announcement is created with identifier {{ param }}",
+      "updated": "A Special Announcement is updated with identifier {{ param }}",
+      "deleted": "A Special Announcement is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Special Announcement {{ id }}?"
+      },
+      "detail": {
+        "title": "Special Announcement"
+      },
+      "id": "ID",
+      "code": "Code",
+      "item": "Item",
+      "ausgabeOrt": "Ausgabe Ort",
+      "kurz": "Kurz",
+      "language": "Language",
+      "ansagedatei": "Ansagedatei",
+      "klartext": "Klartext"
+    }
+  }
+}

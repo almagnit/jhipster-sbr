@@ -1,0 +1,64 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072229",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "ort",
+  "fields": [
+    {
+      "fieldName": "ibnr",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ds100",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "front",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "seite",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "innen",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "tft",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "terminal",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ds001c",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "video",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ds009",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ds003",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "language",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Ort",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

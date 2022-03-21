@@ -1,0 +1,44 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072224",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "fahrten",
+  "fields": [
+    {
+      "fieldName": "titel",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "zugnummer",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "znrBeschreibung",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "variante",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "tagesart",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "umlauf",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "umlaufindex",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Fahrten",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

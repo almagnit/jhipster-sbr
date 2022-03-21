@@ -1,0 +1,30 @@
+{
+  "sbrConverterApp": {
+    "sonderziele": {
+      "home": {
+        "title": "Sonderzieles",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Sonderziele erstellen",
+        "createOrEditLabel": "Sonderziele erstellen oder bearbeiten",
+        "notFound": "Keine Sonderzieles gefunden"
+      },
+      "created": "Sonderziele erstellt mit ID {{ param }}",
+      "updated": "Sonderziele aktualisiert mit ID {{ param }}",
+      "deleted": "Sonderziele gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Sonderziele {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Sonderziele"
+      },
+      "id": "ID",
+      "zugnummer": "Zugnummer",
+      "front": "Front",
+      "seite1": "Seite 1",
+      "seite2": "Seite 2",
+      "innen": "Innen",
+      "tft": "Tft",
+      "terminal": "Terminal"
+    }
+  }
+}

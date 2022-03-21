@@ -1,0 +1,48 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072230",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "ziel",
+  "fields": [
+    {
+      "fieldName": "code",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "front",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "seite1",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "seite2",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "innen",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "tft",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "terminal",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "language",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Ziel",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

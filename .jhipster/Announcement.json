@@ -1,0 +1,40 @@
+{
+  "applications": "*",
+  "changelogDate": "20220321072225",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "announcement",
+  "fields": [
+    {
+      "fieldName": "code",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ansage",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "item",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "announcementfile",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "klartext",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "language",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Announcement",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
